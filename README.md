@@ -1,7 +1,6 @@
 # Vet clinic database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> In this project I used a relational database to create the initial data structure for a vet clinic.
 
 
 ## Getting Started
